@@ -1,0 +1,24 @@
+{
+  "name": "@priyam.sarma/how_to_npm",
+  "version": "1.1.0",
+  "description": "This is my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "priyam.sarma",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "Priyam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttsJavaScriptAppDevelopmentSummer16/ajax_exercise_PS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ttsJavaScriptAppDevelopmentSummer16/ajax_exercise_PS/issues"
+  },
+  "homepage": "https://github.com/ttsJavaScriptAppDevelopmentSummer16/ajax_exercise_PS#readme"
+}
